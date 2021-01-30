@@ -1,0 +1,9 @@
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\bin\Debug\netstandard2.0\BooksApp.Domain.deps.json
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\bin\Debug\netstandard2.0\BooksApp.Domain.dll
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\bin\Debug\netstandard2.0\BooksApp.Domain.pdb
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\obj\Debug\netstandard2.0\BooksApp.Domain.csprojAssemblyReference.cache
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\obj\Debug\netstandard2.0\BooksApp.Domain.AssemblyInfoInputs.cache
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\obj\Debug\netstandard2.0\BooksApp.Domain.AssemblyInfo.cs
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\obj\Debug\netstandard2.0\BooksApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\obj\Debug\netstandard2.0\BooksApp.Domain.dll
+C:\Users\anala\source\repos\BooksApp\BooksApp.Domain\obj\Debug\netstandard2.0\BooksApp.Domain.pdb
